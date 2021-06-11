@@ -1,6 +1,6 @@
 # BeijingHousingPrice Project
 
-Studentica: Lucia Vareško
+Studentica: Lucia Vareško <br />
 [Fakultet informatike u Puli](https://fipu.unipu.hr/) <br />
 Kolegij: Sustavi poslovne inteligencije <br />
 Mentor: doc.dr.sc. Goran oreški <br />
