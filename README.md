@@ -25,3 +25,9 @@ su dostupni podaci za 7 godina trgovanja nekretninama na platformi.
 * Vizualizacija podataka
 
 [Link na seminar i prezentaciju](https://www.dropbox.com/sh/60qp8v63ydoosrj/AADBNbL24frmxUKL5RyHKrTEa?dl=0)
+
+## Korištene tehnologije i alati: 
+* MySQL
+* Python
+* Pentaho Data integradtion
+* Microsoft Power BI
