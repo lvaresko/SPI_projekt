@@ -29,5 +29,5 @@ su dostupni podaci za 7 godina trgovanja nekretninama na platformi.
 ## Korištene tehnologije i alati: 
 * MySQL
 * Python
-* Pentaho Data integradtion
+* Pentaho Data Integration
 * Microsoft Power BI
