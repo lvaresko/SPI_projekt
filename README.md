@@ -5,7 +5,7 @@ Studentica: Lucia Vareško <br />
 Kolegij: Sustavi poslovne inteligencije <br />
 Mentor: doc.dr.sc. Goran oreški <br />
 
-Kroz ovaj projekt simuliran je jedan poslovni proces te prikazan proces izrade sustava za potporu odlučivanju.
+Kroz ovaj projekt simuliran je jedan poslovni problem te prikazan proces izrade sustava za potporu odlučivanju.
 
 ## Poslovni problem
 Lianija je jedna pekinška platforma koja nudi razne usluge vezane uz nekretnine, a jedna od njih je i sama prodaja nekretnina u Pekingu. Na platformi se nude razne nekretnine te 
